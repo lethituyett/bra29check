@@ -1,0 +1,33 @@
+{
+  "name": "bra29check",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lethituyett/bra29check.git"
+  },
+  "keywords": [
+    "bra29check",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "lethituyett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lethituyett/bra29check/issues"
+  },
+  "homepage": "https://github.com/lethituyett/bra29check#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "ftm-gas-convert": "1.0.0"
+
+  }
+}
